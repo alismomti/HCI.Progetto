@@ -7,7 +7,7 @@ Ci teniamo inoltre a sottolineare che, per rendere facile e intuitiva la visuali
 
 Per ultimo, ma non per importanza, chiederemmo se possibile a tutti di visualizzare la presentazione al link presente di seguito, in quanto l'abbiamo realizzata pensando proprio ad una visualizzazione su Canva. L'opzione per visualizzare la presentazione a schermo intero si trova in basso a destra.   
 [https://www.canva.com/design/DAGSmn7EKNE/T8XqymtgTqiMDqO8xp1xBA/edit?utm_content=DAGSmn7EKNE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]  
-Tuttavia, lasciamo nella directory anche il PDF nel caso si presentassero problemi di visualizzazione (che vi chiediamo di segnalarci) o impossibilità dell'utente ad usare canva.  
+Tuttavia, lasciamo nella directory anche i PDF della presentazione e degli approfondimenti nel caso si presentassero problemi di visualizzazione (che vi chiediamo di segnalarci) o impossibilità dell'utente ad usare canva.  
 
 Speriamo che il lavoro da noi svolto sia di vostro gradimento.  
 Buona visione.
