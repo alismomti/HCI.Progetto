@@ -1,4 +1,5 @@
-Prima di guardare la presentazione, ecco un paio di note a riguardo:
+Benvenuti!   
+Per completare il primo compito assegnatoci abbiamo realizzato una presentazione su Canva e prima di guardarla vi chiediamo leggere un paio di note a riguardo:   
 
 La presentazione mira ad essere una sintesi del lavoro fatto durante queste settimane, per questo motivo abbiamo realizzato per le tre sezioni più corpose (metodologia, risultati delle interviste e sintesi) tre documenti che spiegano in modo chiaro e esaustivo tutto ciò che nella presentazione è stato schematizzato.   
 I link ai documenti si trovano sotto i titoli di ogni sezione cliccando sopra alla scritta “ link all’approfondimento” e consigliamo di leggerli dopo aver letto le slide relative alla sezione.    
