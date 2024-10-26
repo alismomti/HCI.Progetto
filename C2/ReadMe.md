@@ -1,8 +1,8 @@
 ## Raffinamento
 
 Benvenuti nella directory riguardante il secondo compito, il raffinamento!  
-  
 Anche questa volta, per completare il compito assegnatoci abbiamo realizzato una **presentazione su Canva** e prima di guardarla vi chiediamo leggere un paio di note a riguardo:  
+
 Similmente alla prima consegna, la presentazione mira ad essere una **sintesi** del lavoro fatto durante queste settimane, per questo motivo abbiamo realizzato per le due sezioni più corpose 
 (*focus group* e *selezione bisogni*) **due documenti** che spiegano in modo chiaro e esaustivo tutto ciò che nella presentazione è stato schematizzato.   
 I link ai documenti si trovano sotto i titoli di ogni sezione cliccando sopra alla scritta *“link all’approfondimento”* e consigliamo di leggerli dopo aver letto le slide relative alla sezione.     
