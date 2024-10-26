@@ -1,6 +1,6 @@
 ## Needfinding    
 
-Benvenuti nella directory riguardante il needfinding! 
+Benvenuti nella directory riguardante il needfinding!       
 Per completare il primo compito assegnatoci abbiamo realizzato una **presentazione su Canva** e prima di guardarla vi chiediamo leggere un paio di note a riguardo:   
 
 La presentazione mira ad essere **una sintesi** del lavoro fatto durante queste settimane, per questo motivo abbiamo realizzato per le tre sezioni più corpose (metodologia, risultati delle interviste e sintesi) **tre documenti** che spiegano in modo chiaro e esaustivo tutto ciò che nella presentazione è stato schematizzato.   
