@@ -16,6 +16,8 @@ Nei link che seguono potete accedere direttamente ai protipi figma se vi può es
 Prototipo App:
 https://www.figma.com/design/tiULhfZ6PgYaYNSJb1yt9R/prototipo-Low-fidelity?node-id=0-1&t=e21wzvMrfs8Ig5xY-1
 
+Prototipo Web App: 
+https://www.figma.com/design/qzYeEaHquSmLlf9sz3ycIN/Website?node-id=58-8&t=oVOsqYJ8GolUtQiO-1
 
 Speriamo che il lavoro da noi svolto sia di vostro gradimento.  
 Buona visione.
