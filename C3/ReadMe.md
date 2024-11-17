@@ -10,6 +10,12 @@ Vi chiediamo gentilmente di **visualizzare la presentazione** al link presente 
 La presentazione dovrebbe partire automaticamente una volta cliccato il link, ma se questo non dovesse succedere l'opzione per visualizzare la presentazione a schermo intero si può trovare in basso a destra.  
 [https://www.canva.com/design/DAGUIP4ANN4/v4Oun5W2c5bZGadgYYwmFg/view?utm_content=DAGUIP4ANN4&utm_campaign=designshare&utm_medium=link&utm_source=editor]  
 Tuttavia, per prevenire eventuali problemi di accesso o incompatibilità (che vi chiediamo di segnalarci), abbiamo incluso nella directory anche un PDF della presentazione.
-  
+
+Nei link che seguono potete accedere direttamente ai protipi figma se vi può essere utile, le schermate sono però spiegate oltre che mostrate sulla presentazione Canva
+
+Prototipo App:
+https://www.figma.com/design/tiULhfZ6PgYaYNSJb1yt9R/prototipo-Low-fidelity?node-id=0-1&t=e21wzvMrfs8Ig5xY-1
+
+
 Speriamo che il lavoro da noi svolto sia di vostro gradimento.  
 Buona visione.
