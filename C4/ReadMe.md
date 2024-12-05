@@ -6,7 +6,7 @@ In questo compito abbiamo ulteriormente sviluppato i due prototipi delle nostre 
 Di seguito troverete anche i documenti con le istruzioni per utilizzarli al meglio.
 
 [Documento per App](https://docs.google.com/document/d/1-w85qLtTxxF7b9IEgoFrGGmvr6yyS-DcB9u2Uhbl2bk/edit?usp=sharing)
-
+[Documento della web app per il dipendente comunale] (https://docs.google.com/document/d/1WtjHmVw1PTIj1MkjpnYFQ4_l6cGFwpjXp8lfp3tcm7I/edit?tab=t.0)
      
 Siamo inoltre entusiasti di annunciare che abbiamo pubblicato il nostro sito ufficiale: [VoxPop](https://aliceemonti14.wixsite.com/voxpop)!  
 Il sito è accessibile anche direttamente dalle informazioni della repository, per facilitarne la consultazione in ogni momento.    
