@@ -1,7 +1,7 @@
 Benvenuti nella directory del quarto compito!    
    
 In questo compito abbiamo ulteriormente sviluppato i due prototipi delle nostre applicazioni. Ecco i link per consultarli:     
-[Prototipo per il cittadino (App)](https://www.figma.com/design/eQHKNuZolaYJdbx9dhoKYV/prototipo-app-VoxPop-COPIA-PER-REVISIONE?node-id=0-1&t=rHIRvcCHYHxqB4xB-1)      
+[Prototipo per il cittadino (App)](https://www.figma.com/proto/eQHKNuZolaYJdbx9dhoKYV/prototipo-app-VoxPop-COPIA-PER-REVISIONE?node-id=0-1&t=rHIRvcCHYHxqB4xB-1)      
 [Prototipo per il dipendente comunale](https://www.figma.com/proto/qzYeEaHquSmLlf9sz3ycIN/Website?node-id=330-486&node-type=frame&t=85AyK3hcZb5FfjUM-1&scaling=scale-down&content-scaling=fixed&page-id=144%3A30&starting-point-node-id=330%3A486&show-proto-sidebar=1)   
 Di seguito troverete anche i documenti con le istruzioni per utilizzarli al meglio.
 
