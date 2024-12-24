@@ -1,7 +1,7 @@
-Benvenuti nella directory del compito cinque,    
-e un caro saluto in particolare ai colleghi del gruppo di **Tastiere Empatiche**!
+Benvenuti nella directory del compito cinque,   
+e un caro saluto in particolare ai colleghi del gruppo di **Tastiere Empatiche**!   
 
-In questa directory è disponibile  il pdf con la valutazione euristica di gruppo del app **VolountEasy** con i problemi da noi evidenziati e le nostre proposte!   
+In questa directory troverete il PDF con la valutazione euristica di gruppo dell'app **VolountEasy**, contenente i problemi da noi evidenziati e le relative proposte di miglioramento.    
 
-Speriamo vi sia di aiuto per continuare il vostro progetto...
-Buona visione!
+Speriamo che questa analisi possa essere utile a Tastiere Empatiche per proseguire al meglio il proprio progetto.   
+Buona lettura!   
