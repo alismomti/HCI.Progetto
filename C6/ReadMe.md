@@ -6,6 +6,7 @@ Come nelle consegne precedenti consigliamo visionare la presentazione attraverso
 Suguono i link ai prototipi figma dei 2 prototipi
 
 PROTOTIPO APP CITTADINO
+
 [link figma app cittadino high fidelity](https://www.figma.com/design/8HytCMheOZfMn9LcYNFldE/prototipo-High-Fidelity-App-VoxPop-Cittadino?m=dev&t=a5jydYlZQcV4nc3f-1)
 
 PROTOTIPO SITO DIPENDENTE COMUNALE
