@@ -6,6 +6,6 @@ Come nelle consegne precedenti vi consigliamo di visionare la presentazione **di
 
 Infine, trovate di seguito i nostri **due prototipi high fidelity**:   
 [Prototipo App Cittadino High Fidelity](https://www.figma.com/design/8HytCMheOZfMn9LcYNFldE/prototipo-High-Fidelity-App-VoxPop-Cittadino?m=dev&t=a5jydYlZQcV4nc3f-1)  
-[Prototipo Sito Dipendente Comunale High Fidelity](https://www.figma.com/proto/qzYeEaHquSmLlf9sz3ycIN/Website?node-id=716-5616&p=f&scaling=scale-down&content-scaling=fixed&page-id=716%3A4442&starting-point-node-id=716%3A5616)  
+[Prototipo Sito Dipendente Comunale High Fidelity](https://www.figma.com/proto/cmDIuzJX5qk1v3zrIIs2iC/Website-(Copy)?node-id=989-7386&t=o1wrSxLpiRujlmNs-0&scaling=scale-down&content-scaling=fixed&page-id=989%3A6175&starting-point-node-id=989%3A7386)  
 
 Vi ringraziamo per l'attenzione e vi auguriamo un felice anno nuovo!
