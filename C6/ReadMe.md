@@ -4,7 +4,7 @@ Qui potete trovare il report sui cambiamenti da noi apportati a seguito della va
 
 Come nelle consegne precedenti vi consigliamo di visionare la presentazione **direttamente su Canva** [a questo link](https://www.canva.com/design/DAGaq_eH_jM/mwKmhMS1-Jwc0lxJcVWS8A/edit?utm_content=DAGaq_eH_jM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), ma in caso di problemi abbiamo reso disponibile nella directory, come sempre, la versione pdf.  
 
-Infine, trovate di seguito i nostri due prototipi high fidelity:   
+Infine, trovate di seguito i nostri **due prototipi high fidelity**:   
 [Prototipo App Cittadino High Fidelity](https://www.figma.com/design/8HytCMheOZfMn9LcYNFldE/prototipo-High-Fidelity-App-VoxPop-Cittadino?m=dev&t=a5jydYlZQcV4nc3f-1)  
 [Prototipo Sito Dipendente Comunale High Fidelity](https://www.figma.com/proto/qzYeEaHquSmLlf9sz3ycIN/Website?node-id=716-5616&p=f&scaling=scale-down&content-scaling=fixed&page-id=716%3A4442&starting-point-node-id=716%3A5616)  
 
